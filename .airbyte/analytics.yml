@@ -1,0 +1,5 @@
+# This file is used by Airbyte to track anonymous usage statistics.
+# For more information or to opt out, please see
+# - https://docs.airbyte.com/operator-guides/telemetry
+anonymous_user_id: 1740070305SJ3TYNFKZHZQQD9N
+analytics_id: b1b2849a-05ae-48a4-8e55-9f414e84d5ee
